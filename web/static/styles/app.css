@@ -1,0 +1,10 @@
+.todolist_item {
+  list-style: none;
+}
+
+.todolist_item .checkbox {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  border-color: solid 1px black;
+}

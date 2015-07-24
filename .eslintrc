@@ -1,0 +1,13 @@
+parser: babel-eslint
+plugins:
+- eslint-plugin-react
+rules:
+  strict: 0
+  no-underscore-dangle: 0
+  no-unused-vars: 0
+  no-console: 0
+  quotes: [2, "single"]
+globals:
+  document: true
+  console: true
+  setTimeout: true

@@ -1,0 +1,29 @@
+2015-07-22T22:16:54.775891019 0.081559s notice: Recursively removing directory /home/yeehaa/Documents/elixir-exercises/twurl/rethinkdb_data/tmp
+2015-07-22T22:16:54.781804216 0.087474s notice: Initializing directory /home/yeehaa/Documents/elixir-exercises/twurl/rethinkdb_data
+2015-07-22T22:16:54.781931276 0.087599s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/yeehaa/Documents/elixir-exercises/twurl/rethinkdb_data' did not already exist or is empty.)
+2015-07-22T22:16:54.781949531 0.087617s notice: Running rethinkdb 2.0.4 (GCC 4.8.4)...
+2015-07-22T22:16:54.784308242 0.089977s notice: Running on Linux 3.16.0-36-generic x86_64
+2015-07-22T22:16:54.784355814 0.090023s notice: Loading data from directory /home/yeehaa/Documents/elixir-exercises/twurl/rethinkdb_data
+2015-07-22T22:16:54.892641562 0.198310s info: Automatically using cache size of 1715 MB
+2015-07-22T22:16:54.893978823 0.199646s notice: Listening for intracluster connections on port 29015
+2015-07-22T22:16:54.895775366 0.201443s notice: Listening for client driver connections on port 28015
+2015-07-22T22:16:54.895829471 0.201497s notice: Listening for administrative HTTP connections on port 8080
+2015-07-22T22:16:54.895832686 0.201500s notice: Listening on addresses: 127.0.0.1, 127.0.1.1, ::1
+2015-07-22T22:16:54.895834443 0.201502s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-07-22T22:16:54.895836086 0.201504s notice: Server ready, "hulkitop_hgr" 4205d526-4d5d-433e-98c8-9722e7cb78d6
+2015-07-22T23:47:36.040304394 5441.345973s notice: Removing file /home/yeehaa/Documents/elixir-exercises/twurl/rethinkdb_data/b49c9f08-403e-4791-854d-b770ecee061c
+2015-07-23T00:12:44.265708184 6949.571376s notice: Removing file /home/yeehaa/Documents/elixir-exercises/twurl/rethinkdb_data/a1dd55cd-4ff7-4340-9e61-c2eb7c29a2eb
+2015-07-24T22:50:20.376181159 23216.393886s notice: Server got SIGTERM from pid 11325, uid 0; shutting down...
+2015-07-24T22:50:20.382599733 23216.400304s notice: Shutting down client connections...
+2015-07-24T22:50:20.384131520 23216.401835s notice: All client connections closed.
+2015-07-24T22:50:20.384166675 23216.401870s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2015-07-24T22:53:39.320846097 0.071788s notice: Running rethinkdb 2.0.4 (GCC 4.8.4)...
+2015-07-24T22:53:39.323289538 0.074231s notice: Running on Linux 3.16.0-36-generic x86_64
+2015-07-24T22:53:39.323359484 0.074299s notice: Loading data from directory /home/yeehaa/Documents/elixir-exercises/twurl/rethinkdb_data
+2015-07-24T22:53:39.356761558 0.107702s info: Automatically using cache size of 2541 MB
+2015-07-24T22:53:39.358358726 0.109298s notice: Listening for intracluster connections on port 29015
+2015-07-24T22:53:39.360594281 0.111534s notice: Listening for client driver connections on port 28015
+2015-07-24T22:53:39.360677039 0.111616s notice: Listening for administrative HTTP connections on port 8080
+2015-07-24T22:53:39.360677789 0.111617s notice: Listening on addresses: 127.0.0.1, 127.0.1.1, ::1
+2015-07-24T22:53:39.360679037 0.111618s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-07-24T22:53:39.360679606 0.111619s notice: Server ready, "hulkitop_hgr" 4205d526-4d5d-433e-98c8-9722e7cb78d6
